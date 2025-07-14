@@ -13,7 +13,7 @@
 
 ## Additions | Reworks
 - Rescripted A-ni-ki
-
+- Added a 4 frame jump squat and 4 frame landing to every character. (As of Version 1.0.0)
 
 
 ## Notes [7-14-2025]
