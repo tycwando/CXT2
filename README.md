@@ -20,6 +20,10 @@
 - Updated a majority of the animations to instead be interpolated. People fear games that have soul it seems.
 - Redid the entirety of the character's controller code.
 
+## A-NI-KI Changes
+- WWQ now properly has invulnurable frames from activation to the end of its duration. It is a wonderful reversal.
+- DDSC now spawns an orb.
+
 ## Notes [7-14-2025]
 The main problem I had with A-ni-ki was the fact that I couldn't properly express his characteristics whilst adding new mechanics in the game which entirely counteract how he should/would play with them. So, I decided to fully redo the character and make him more focused on how he would work with the game's mechanics as opposed to adding them in as an afterthought to his pre-existing kit.
 
