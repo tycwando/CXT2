@@ -5,6 +5,9 @@
 ## General 
 - Updated client sided state machine to be more responsive to the client.
 - Entirely recoded the movement in contrast to the prior update.
+- Optimized the character selection screen.
+- Optimized all of the prior code in regards to usage of remotes. (Thanks to the handy packets module !!!)
+- Severely cut on data sent
 
  ## Bug Fixes
 - Aerial movement no longer is as clunky as it was before. 
