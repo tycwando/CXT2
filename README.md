@@ -2,17 +2,20 @@
 
 ### Version [1.0.0] | [7-21-2025]
 
-## General 
+## General | Main Additions
 - Updated client sided state machine to be more responsive to the client.
 - Entirely recoded the movement in contrast to the prior update.
 - Optimized the character selection screen.
 - Optimized all of the prior code in regards to usage of remotes. (Thanks to the handy packets module !!!)
 - Severely cut on data sent
+- Added an on-screen keyboard that displays your current keystroke-based inputs !! they are very handy and the visual looks cooler !!
+- Updated UI to be more interactive and cool.
+
 
  ## Bug Fixes
 - Aerial movement no longer is as clunky as it was before. 
 - Momentum properly works and can conserve any move in the game, instead of it being as awkward as it was before.
-- DeltaTime no longer fucks up the entire movement system, now reliably has the same outcome at any fps.
+- DeltaTime no longer fucks up the entire movement system, now reliably has the same outcome at any fps. (This barely affected the game, it just was annoying.)
 
 ## Additions | Reworks
 - Rescripted A-ni-ki
