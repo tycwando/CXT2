@@ -10,7 +10,9 @@
 - Movement options are now character dependent.
 - You can now lock onto the target by pressing V and hovering your mouse over the target. This can be disabled by pressing it a second time.
 - Properly made hurtboxes independent to the character and can now generate hurtboxes that extend where you can hit the stated player.
-
+- Kiwi_Milks did something major
+- Stuff.
+- mrrp
 
  ## Bug Fixes
 - Aerial movement no longer is as clunky as it was before. 
