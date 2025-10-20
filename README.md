@@ -1,6 +1,5 @@
 # CXT2 CHANGELOG
-
- ## Version 0.001 10-20-2025 VANILLA SEASON 0
+Version 0.001 10-20-2025 VANILLA SEASON 0
 
 ## ー General ー
 
